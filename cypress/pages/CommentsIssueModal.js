@@ -79,4 +79,5 @@ class CommentsIssueModal {
     }
 }
 
+
 export default CommentsIssueModal;
